@@ -3,3 +3,5 @@ Emoji
 Type Options
 Colors 
 Vibrant 
+shape
+
